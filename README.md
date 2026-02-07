@@ -4,14 +4,12 @@
 
 ## About Me
 
-- I’m currently working as a software systems developer for Pantex, which is a DOE production facility where I work on things like:
-  - bug fixes
-  - code enhancements
-  - application enhancements
-  - connecting data apps with custom in-house applications
-  - maintaining Azure DevOps and all codebases
-  - Implementing new software for users
-- Formerly I was a data analyst and developer working on custom data applications for Xcel Energy.
+- I’m currently working as a Software Engineer for the DOE where I work on things like:
+  - building a full AI RAG applicaiton from scratch
+  - custom data pipelines
+  - LLM research
+  - architecting AI systems into existing enterpise environments
+- Formerly I was a Software Systems Engineer for the DOE.
 - Formerly at a financial technology company I implemented business intelligence and automation software to support the marketing department. I also built a new website for the company that introduced the ability to manage field service tickets.
 - I’m currently learning:
   - C#
