@@ -1,6 +1,7 @@
 # Nathan Curtis
 
-👋 Hi, I'm Nathan. I'm a software developer who is on a systems support team working on web app development, data integration, and enterprise architecture. I started out building broadcast computer infrastructure, then got an itch for machine learning and web development simultaneously.<br>
+Hi, I'm Nathan. I'm an AI Software Engineer who is on an AI tiger team team working on building and integrating AI applications into enterprise environments.
+<br>
 
 ## About Me
 
