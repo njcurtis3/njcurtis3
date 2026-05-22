@@ -33,3 +33,5 @@ Hi, I'm Nathan. I'm an AI Software Engineer who is on an AI tiger team team work
 - GitBash
 - Roam Research
 - Obsidian
+- Claude Code
+- Codex
