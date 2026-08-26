@@ -1,6 +1,6 @@
 # Nathan Curtis
 
-Hi, I'm Nathan. I'm an AI Software Engineer who is on an AI tiger team team working on building and integrating AI applications into enterprise environments.
+Hi, I'm Nathan. I'm an AI Software Engineer who is on an AI tiger team team working on building and integrating AI applications into enterprise environments, training LLMs at scale, and building multi-agent architectures.
 <br>
 
 ## About Me
@@ -13,12 +13,10 @@ Hi, I'm Nathan. I'm an AI Software Engineer who is on an AI tiger team team work
 - Formerly I was a Software Systems Engineer for the DOE.
 - Formerly at a financial technology company I implemented business intelligence and automation software to support the marketing department. I also built a new website for the company that introduced the ability to manage field service tickets.
 - I’m currently learning:
-  - C#
-  - Python
-  - Haskell
-  - LLM integrations
-  - Go
-  - SQL & Oracle database administration
+  - graph engineering for agents
+  - LLM architecture
+  - AI model training
+  - LLM enterprise integrations
 - How to reach me: nathanjcurtis3 at gmail
 - ⚡ Fun fact: I've been in the Army since 2008 and for the past few years I have been a Civil Affairs Team Sergeant working all over the Pacific.  
 
