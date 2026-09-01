@@ -6,7 +6,7 @@
         xmlns="http://www.w3.org/2000/svg"
       >
         <style>
-      .text {   font-size: 28px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text {   font-size: 26px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
       .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
     </style>
         <svg
@@ -15,12 +15,12 @@
         >
           <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#4568dc"/><stop offset="100%" stop-color="#b06ab3"/>
+                <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#ff2079"/>
               </linearGradient>
             </defs>
           <rect xmlns="http://www.w3.org/2000/svg"  rx="4.5" height="70" width="100%" fill="url(#linear)" stroke-opacity="1"/>
         </svg>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="65%" class="text" style="fill:#fff;" stroke="#none" stroke-width="1" >GitHub Stats</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="65%" class="text" style="fill:#00f0ff;" stroke="#none" stroke-width="1" >SYSTEM_STATS</text>
         
       </svg>
     

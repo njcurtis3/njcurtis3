@@ -8,12 +8,12 @@
         viewBox="0 0 854 150"
       >
         <style>
-      .text {   font-size: 35px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } path {   transform: rotate(180deg);   transform-origin: 50% 50%;  } 
+      .text {   font-size: 32px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } path {   transform: rotate(180deg);   transform-origin: 50% 50%;  } 
       .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
     </style>
         <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#fc00ff"/><stop offset="100%" stop-color="#00dbde"/>
+                <stop offset="0%" stop-color="#00f0ff"/><stop offset="50%" stop-color="#b026ff"/><stop offset="100%" stop-color="#ff2079"/>
               </linearGradient>
             </defs>
         
@@ -43,7 +43,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="75%" class="text" style="fill:#fff;" stroke="#none" stroke-width="1" >Thanks for Visiting!</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="75%" class="text" style="fill:#0a0a0f;" stroke="#none" stroke-width="1" >END_TRANSMISSION</text>
         
       </svg>
     
