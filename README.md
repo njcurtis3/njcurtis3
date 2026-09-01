@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="assets/banner-header.svg" width="100%" />
+# Nathan Curtis
+
+### AI Software Engineer
+
+</br>
+</br>
+</br>
 
 <a href="https://github.com/njcurtis3">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Building+and+integrating+AI+into+enterprise+systems;Training+LLMs+at+scale;Architecting+multi-agent+systems;Civil+Affairs+Team+Sergeant+%E2%80%94+U.S.+Army+since+2008" alt="Typing SVG" />
