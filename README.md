@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Curtis&fontSize=46&fontColor=fff&fontAlignY=38&desc=AI%20Software%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20LLM%20Training&descAlignY=58&descSize=18" width="100%" />
+<img src="assets/banner-header.svg" width="100%" />
 
 <a href="https://github.com/njcurtis3">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Building+and+integrating+AI+into+enterprise+systems;Training+LLMs+at+scale;Architecting+multi-agent+systems;Civil+Affairs+Team+Sergeant+%E2%80%94+U.S.+Army+since+2008" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="assets/banner-about.svg" width="100%" />
 </div>
 
 ## 👋 About Me
@@ -53,7 +53,7 @@ const nathan: Engineer = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=Tools%20I%20Love%20%26amp%3B%20Use&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="assets/banner-tools.svg" width="100%" />
 </div>
 
 ## 🔧 Tools I Love & Use
@@ -76,7 +76,7 @@ const nathan: Engineer = {
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+<img src="assets/banner-stats.svg" width="100%" />
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@ const nathan: Engineer = {
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
+<img width="100%" src="assets/banner-footer.svg" />
 
 <img src="https://komarev.com/ghpvc/?username=njcurtis3&label=Profile%20Views&color=2DD4BF&style=flat-square" />
 
