@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 84" font-family="'Courier New',Courier,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 92" font-family="'Courier New',Courier,monospace">
   <style>
     .t  { fill:#a7abc0; }
     .tt { fill:#e2e5ef; }
-    .dim{ fill:#6d7284; }
+    .dim{ fill:#7d8296; }
     .d  { font-family:Arial,Helvetica,sans-serif; font-weight:700; fill:#e2e5ef; letter-spacing:2px; }
     .ln { stroke:#9ba0b4; fill:none; }
     .lnd{ stroke:#565b6e; fill:none; }
   </style>
 
-  <rect x="0" y="0" width="830" height="84" fill="#1f212b"/>
+  <rect x="0" y="0" width="830" height="92" fill="#1f212b"/>
 
   <line x1="8" y1="8" x2="822" y2="8" class="ln"/>
-  <text x="8" y="22" class="tt" font-size="7" letter-spacing="1">STATUS :: OPERATIONAL</text>
-  <text x="415" y="8" text-anchor="middle" class="dim" font-size="6" letter-spacing="1">UPTIME :: CONTINUOUS</text>
-  <text x="822" y="20" text-anchor="end" class="t" font-size="6" letter-spacing="1">ACCESS :: GRANTED</text>
+  <text x="8" y="28" class="tt" font-size="9" letter-spacing="1">STATUS :: OPERATIONAL</text>
+  <text x="415" y="28" text-anchor="middle" class="dim" font-size="7.5" letter-spacing="1">UPTIME :: CONTINUOUS</text>
+  <text x="822" y="28" text-anchor="end" class="t" font-size="7.5" letter-spacing="1">ACCESS :: GRANTED</text>
 
-  <text x="8" y="38" class="dim" font-size="5.5">SYS :: 873 // BATTERY 83 // TEMP 27°C — WCL 24</text>
-  <text x="8" y="50" class="dim" font-size="5.5">TARGET :: SUBSYSTEM-09 — UNIT-0556 // 262.01 — LOG :: 92%</text>
-  <text x="300" y="44" class="dim" font-size="14">通信</text>
+  <text x="8" y="48" class="dim" font-size="7">SYS :: 873 // BATTERY 83 // TEMP 27°C — WCL 24</text>
+  <text x="8" y="62" class="dim" font-size="7">TARGET :: SUBSYSTEM-09 — UNIT-0556 // 262.01 — LOG :: 92%</text>
+  <text x="300" y="56" class="dim" font-size="18">通信</text>
 
   <g class="lnd">
-    <path d="M370 34 h30 M406 34 h18 M430 34 h12 M448 34 h24 M478 34 h10 M494 34 h14"/>
+    <path d="M370 44 h30 M406 44 h18 M430 44 h12 M448 44 h24 M478 44 h10 M494 44 h14"/>
   </g>
-  <circle cx="510" cy="34" r="2" class="tt">
+  <circle cx="512" cy="44" r="2.5" class="tt">
     <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="822" y="72" text-anchor="end" class="tt" font-size="8" letter-spacing="2">EOF // 0864</text>
-  <text x="8" y="72" class="dim" font-size="5.5">LOG-472 // CHANNEL-01 // PACKETS-COMPLETE :: 0864</text>
-  <line x1="8" y1="78" x2="822" y2="78" class="lnd" stroke-dasharray="2 4"/>
+  <text x="822" y="82" text-anchor="end" class="d" font-size="11">EOF // 0864</text>
+  <text x="8" y="82" class="dim" font-size="7">LOG-472 // CHANNEL-01 // PACKETS-COMPLETE :: 0864</text>
+  <line x1="8" y1="88" x2="822" y2="88" class="lnd" stroke-dasharray="2 4"/>
 </svg>

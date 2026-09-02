@@ -4,9 +4,9 @@
 
 <br>
 
-<a href="mailto:nathanjcurtis3@gmail.com"><img src="assets/mg-c-email.svg" width="150" alt="EMAIL" /></a>
+<a href="mailto:nathanjcurtis3@gmail.com"><img src="assets/mg-c-email.svg" width="160" alt="EMAIL" /></a>
 &nbsp;&nbsp;
-<a href="https://github.com/njcurtis3"><img src="assets/mg-c-github.svg" width="150" alt="GITHUB" /></a>
+<a href="https://github.com/njcurtis3"><img src="assets/mg-c-github.svg" width="160" alt="GITHUB" /></a>
 
 </div>
 
@@ -22,27 +22,27 @@
 
 <div align="center">
 
-<a href="https://github.com/njcurtis3/EmoTorch"><img src="assets/mg-t-pytorch.svg" width="150" alt="PYTORCH" /></a>
+<a href="https://github.com/njcurtis3/EmoTorch"><img src="assets/mg-t-pytorch.svg" width="160" alt="PYTORCH" /></a>
 &nbsp;
-<a href="https://github.com/njcurtis3/in-self-driving-car/blob/main/traffic-light-classifier/home/Traffic_Light_Classifier.ipynb"><img src="assets/mg-t-jupyter.svg" width="150" alt="JUPYTER" /></a>
+<a href="https://github.com/njcurtis3/in-self-driving-car/blob/main/traffic-light-classifier/home/Traffic_Light_Classifier.ipynb"><img src="assets/mg-t-jupyter.svg" width="160" alt="JUPYTER" /></a>
 &nbsp;
-<a href="https://lifetank.life/"><img src="assets/mg-t-hugo.svg" width="150" alt="HUGO" /></a>
+<a href="https://lifetank.life/"><img src="assets/mg-t-hugo.svg" width="160" alt="HUGO" /></a>
 &nbsp;
-<img src="assets/mg-t-copilot.svg" width="150" alt="COPILOT" />
+<img src="assets/mg-t-copilot.svg" width="160" alt="COPILOT" />
 &nbsp;
-<img src="assets/mg-t-vs.svg" width="150" alt="VISUAL STUDIO" />
+<img src="assets/mg-t-vs.svg" width="160" alt="VISUAL STUDIO" />
 
 <br>
 
-<img src="assets/mg-t-gitbash.svg" width="150" alt="GIT BASH" />
+<img src="assets/mg-t-gitbash.svg" width="160" alt="GIT BASH" />
 &nbsp;
-<img src="assets/mg-t-roam.svg" width="150" alt="ROAM RESEARCH" />
+<img src="assets/mg-t-roam.svg" width="160" alt="ROAM RESEARCH" />
 &nbsp;
-<img src="assets/mg-t-obsidian.svg" width="150" alt="OBSIDIAN" />
+<img src="assets/mg-t-obsidian.svg" width="160" alt="OBSIDIAN" />
 &nbsp;
-<img src="assets/mg-t-claude.svg" width="150" alt="CLAUDE CODE" />
+<img src="assets/mg-t-claude.svg" width="160" alt="CLAUDE CODE" />
 &nbsp;
-<img src="assets/mg-t-codex.svg" width="150" alt="CODEX" />
+<img src="assets/mg-t-codex.svg" width="160" alt="CODEX" />
 
 </div>
 

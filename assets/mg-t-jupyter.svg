@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 56" font-family="'Courier New',Courier,monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 62" font-family="'Courier New',Courier,monospace">
   <style>
     .t  { fill:#a7abc0; }
     .tt { fill:#e2e5ef; }
-    .dim{ fill:#6d7284; }
+    .dim{ fill:#7d8296; }
     .d  { font-family:Arial,Helvetica,sans-serif; font-weight:700; fill:#e2e5ef; letter-spacing:1.5px; }
     .ln { stroke:#9ba0b4; fill:none; }
     .lnd{ stroke:#565b6e; fill:none; }
   </style>
-  <rect x="0.5" y="0.5" width="149" height="55" fill="#242735" stroke="#3a3e4e"/>
-  <text x="10" y="22" class="d" font-size="9">JUPYTER</text>
-  <text x="143" y="12" text-anchor="end" class="dim" font-size="5">T-02</text>
-  <line x1="128" y1="12" x2="136" y2="20" class="lnd"/>
-  <rect x="10" y="32" width="4" height="4" class="tt"/>
-  <rect x="17" y="32" width="4" height="4" class="lnd"/>
-  <rect x="10" y="39" width="4" height="4" class="lnd"/>
-  <rect x="17" y="39" width="4" height="4" class="ln"/>
-  <text x="30" y="46" class="dim" font-size="5.5">NB  // 02</text>
+  <rect x="0.5" y="0.5" width="159" height="61" fill="#242735" stroke="#3a3e4e"/>
+  <text x="10" y="26" class="d" font-size="12">JUPYTER</text>
+  <text x="152" y="13" text-anchor="end" class="dim" font-size="6.5">T-02</text>
+  <line x1="136" y1="12" x2="144" y2="20" class="lnd"/>
+  <rect x="10" y="37" width="5" height="5" class="tt"/>
+  <rect x="18" y="37" width="5" height="5" class="lnd"/>
+  <rect x="10" y="45" width="5" height="5" class="lnd"/>
+  <rect x="18" y="45" width="5" height="5" class="ln"/>
+  <text x="32" y="52" class="dim" font-size="7">NB  // 02</text>
 </svg>
