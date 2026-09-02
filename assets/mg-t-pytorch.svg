@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 56" font-family="'Courier New',Courier,monospace">
+  <style>
+    .t  { fill:#a7abc0; }
+    .tt { fill:#e2e5ef; }
+    .dim{ fill:#6d7284; }
+    .d  { font-family:Arial,Helvetica,sans-serif; font-weight:700; fill:#e2e5ef; letter-spacing:1.5px; }
+    .ln { stroke:#9ba0b4; fill:none; }
+    .lnd{ stroke:#565b6e; fill:none; }
+  </style>
+  <rect x="0.5" y="0.5" width="149" height="55" fill="#242735" stroke="#3a3e4e"/>
+  <text x="10" y="22" class="d" font-size="9">PYTORCH</text>
+  <text x="143" y="12" text-anchor="end" class="dim" font-size="5">T-01</text>
+  <line x1="128" y1="12" x2="136" y2="20" class="lnd"/>
+  <rect x="10" y="32" width="4" height="4" class="tt"/>
+  <rect x="17" y="32" width="4" height="4" class="lnd"/>
+  <rect x="10" y="39" width="4" height="4" class="lnd"/>
+  <rect x="17" y="39" width="4" height="4" class="ln"/>
+  <text x="30" y="46" class="dim" font-size="5.5">LIB // 01</text>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 250" font-family="'Courier New',Courier,monospace">
+  <defs>
+    <pattern id="dg2" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#a7abc0" opacity="0.7"/>
+    </pattern>
+    <pattern id="bc" width="7" height="16" patternUnits="userSpaceOnUse">
+      <rect width="2" height="16" fill="#a7abc0" opacity="0.6"/>
+      <rect x="3" width="1" height="16" fill="#a7abc0" opacity="0.4"/>
+    </pattern>
+  </defs>
+  <style>
+    .t  { fill:#a7abc0; }
+    .tt { fill:#e2e5ef; }
+    .dim{ fill:#6d7284; }
+    .d  { font-family:Arial,Helvetica,sans-serif; font-weight:700; fill:#e2e5ef; letter-spacing:2px; }
+    .ln { stroke:#9ba0b4; fill:none; }
+    .lnd{ stroke:#565b6e; fill:none; }
+  </style>
+
+  <rect x="0" y="0" width="830" height="250" fill="#1f212b"/>
+
+  <!-- header strip -->
+  <line x1="8" y1="10" x2="822" y2="10" class="ln"/>
+  <text x="8" y="24" class="tt" font-size="8" letter-spacing="2">[ ABOUT // DATACLUSTER ]</text>
+  <text x="822" y="24" text-anchor="end" class="dim" font-size="6">INDEX :: 01/04</text>
+
+  <!-- A: ROLE -->
+  <g>
+    <rect x="8" y="30" width="360" height="206" fill="#242735" stroke="#3a3e4e"/>
+    <text x="16" y="52" class="d" font-size="10">DATACLUSTER</text>
+    <text x="360" y="52" text-anchor="end" class="dim" font-size="5.5">INTERFACE :: RESET // 04</text>
+    <line x1="16" y1="60" x2="360" y2="60" class="lnd"/>
+    <text x="16" y="80" class="t" font-size="6.5">ROLE      :: AI SOFTWARE ENGINEER</text>
+    <text x="16" y="94" class="t" font-size="6.5">TEAM      :: AI TIGER TEAM — ENTERPRISE AI</text>
+    <text x="16" y="108" class="t" font-size="6.5">EMPLOYER  :: DEPT OF ENERGY</text>
+    <text x="16" y="122" class="t" font-size="6.5">FOCUS     :: RAG // PIPELINES // LLM R&amp;D</text>
+    <text x="16" y="136" class="t" font-size="6.5">INTEGRATE :: ENTERPRISE ENVIRONMENTS</text>
+    <text x="16" y="150" class="t" font-size="6.5">PREV      :: FINTECH BI + AUTOMATION TOOLING</text>
+    <rect x="16" y="164" width="90" height="14" fill="url(#bc)"/>
+    <text x="118" y="175" class="dim" font-size="5.5">SIG-BLOCK // 0864</text>
+    <rect x="16" y="196" width="70" height="32" fill="url(#dg2)"/>
+    <text x="98" y="212" class="dim" font-size="5.5">方式 — SYSTEM // METHOD</text>
+    <text x="98" y="222" class="dim" font-size="5.5">ENTRY :: NODE-ACTIVE // 022</text>
+    <text x="360" y="231" text-anchor="end" class="dim" font-size="5">A-01</text>
+  </g>
+
+  <!-- B: LEARNING QUEUE -->
+  <g>
+    <rect x="374" y="30" width="230" height="206" fill="#242735" stroke="#3a3e4e"/>
+    <text x="382" y="52" class="tt" font-size="8" letter-spacing="2">LEARNING_QUEUE</text>
+    <text x="596" y="52" text-anchor="end" class="dim" font-size="5.5">B-02</text>
+    <line x1="382" y1="60" x2="596" y2="60" class="lnd"/>
+    <rect x="382" y="74" width="6" height="6" class="ln"/>
+    <line x1="382" y1="80" x2="388" y2="74" class="tt"/>
+    <text x="394" y="80" class="t" font-size="6.5">GRAPH ENGINEERING — AGENTS</text>
+    <rect x="382" y="92" width="6" height="6" class="ln"/>
+    <text x="394" y="98" class="t" font-size="6.5">LLM ARCHITECTURE</text>
+    <rect x="382" y="110" width="6" height="6" class="lnd"/>
+    <text x="394" y="116" class="t" font-size="6.5">MODEL TRAINING — AT SCALE</text>
+    <rect x="382" y="128" width="6" height="6" class="lnd"/>
+    <text x="394" y="134" class="t" font-size="6.5">ENTERPRISE LLM INTEGRATION</text>
+    <text x="596" y="116" text-anchor="end" class="dim" font-size="11">学習</text>
+    <text x="382" y="162" class="dim" font-size="5.5">QUEUE :: 04 — STATUS :: PROCESSING</text>
+    <rect x="382" y="170" width="206" height="4" class="lnd"/>
+    <rect x="382" y="170" width="82" height="4" fill="#a7abc0" opacity="0.5"/>
+    <text x="596" y="180" text-anchor="end" class="dim" font-size="5">40%</text>
+    <rect x="382" y="196" width="50" height="32" fill="url(#dg2)" opacity="0.7"/>
+    <text x="444" y="210" class="dim" font-size="5.5">DECODE :: 11-11-33A</text>
+    <text x="444" y="220" class="dim" font-size="5.5">PACKET :: B-02 // MODULE-4</text>
+  </g>
+
+  <!-- C: SERVICE RECORD -->
+  <g>
+    <rect x="610" y="30" width="212" height="206" fill="#262a3a" stroke="#3a3e4e"/>
+    <text x="618" y="52" class="d" font-size="10">SERVICE_RECORD</text>
+    <text x="814" y="52" text-anchor="end" class="dim" font-size="5.5">C-03</text>
+    <line x1="618" y1="60" x2="814" y2="60" class="lnd"/>
+    <text x="618" y="86" class="d" font-size="16">2008 —</text>
+    <text x="618" y="102" class="t" font-size="6">U.S. ARMY — ACTIVE</text>
+    <text x="618" y="114" class="t" font-size="6">CIVIL AFFAIRS TEAM SERGEANT</text>
+    <text x="618" y="126" class="t" font-size="6">PACIFIC THEATER // OCONUS</text>
+    <g>
+      <rect x="618" y="128" width="9" height="6" class="lnd"/>
+      <rect x="630" y="124" width="9" height="10" class="lnd"/>
+      <rect x="630" y="120" width="9" height="14" class="lnd"/>
+      <rect x="642" y="116" width="9" height="18" class="ln"/>
+      <rect x="654" y="112" width="9" height="22" class="ln"/>
+      <text x="618" y="146" class="dim" font-size="5">RANK PROGRESSION // ACTIVE-DUTY</text>
+    </g>
+    <text x="796" y="186" text-anchor="end" class="dim" font-size="18">任務</text>
+    <text x="618" y="212" class="dim" font-size="5.5">CHANNEL :: 01 — ACTIVE</text>
+    <text x="618" y="222" class="dim" font-size="5.5">ENTRY :: POWER-88 :: TEMP :: 02°C</text>
+  </g>
+</svg>
